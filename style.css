@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(8, 69, 70);
+}
+.menu{  
+    list-style-type: none;
+    text-decoration: none;
+    height: 8vh;
+    width: 100%;
+    background-color: rgba(62, 20, 63, 0.207);
+    display: flex;
+    align-items: center;
+}
+.menu a {
+    text-decoration: none;
+    color:rgb(250, 0, 255);
+   
+}
+.menu li{
+    justify-content: flex-start;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    font-size:3vh;
+}
+
+.isolado{
+    
+margin-left: 60px;
+margin-right: 100px;
+
+}
